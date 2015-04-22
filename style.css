@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+#map-canvas {
+  height: 100%;
+}
+
+.info-box {
+	height: 50px; 
+	width: 150px; 
+}
